@@ -171,6 +171,7 @@ Buid and Setup Render
 Run app in Render
 ![cd live](images/cd_live.png)
 Link web: [https://tannd22.onrender.com](https://tannd22.onrender.com)
+
 ### 10. Request API
 #### Local
 ```
@@ -182,6 +183,9 @@ python api.py
 python test_infer.py
 ```
 ![test_infer](images/test_infernce.png)
+
+## Model card
+[here](model_card.md)
 
 ## Code Quanlity
 ### Style Guide
