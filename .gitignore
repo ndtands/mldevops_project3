@@ -1,0 +1,6 @@
+tests/__pycache__
+.pytest_cache
+.dvc
+__pycache__
+outputs
+core/__pycache__
