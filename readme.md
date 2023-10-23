@@ -159,9 +159,18 @@ docker build -t project3 .
 docker run -p 5000:5000 project3
 
 ```
+![test_infer](images/docker.png)
 
 ### 9. CI/CD
+#### CI on Github action
+![ci](images/ci.png)
 
+#### CD on Render
+Buid and Setup Render
+![cd build](images/cd_buid.png)
+Run app in Render
+![cd live](images/cd_live.png)
+Link web: [https://tannd22.onrender.com](https://tannd22.onrender.com)
 ### 10. Request API
 #### Local
 ```
