@@ -1,4 +1,5 @@
 # Deploying a ML Model to Cloud Application Platform with FastAPI
+[https://github.com/ndtands/mldevops_project3.git](https://github.com/ndtands/mldevops_project3.git)
 ## Project Descriptions
 Using all skills actuired for data Census Bureau. Create unitest and monitor the model perfomance. Using FastAPI and create API tests.
 CI/CD using github action.
@@ -61,7 +62,7 @@ tree .
 17 directories, 33 files
 ```
 
-[Link github](https://github.com/ndtands/mldevops_project3.git)
+
 
 ### 1. Setup
 ```
@@ -177,7 +178,7 @@ Link web: [https://tannd22.onrender.com](https://tannd22.onrender.com)
 ```
 python api.py
 ```
-![fastapi](images/fastapi.png)
+![live_post](images/live_post.png)
 #### Test post
 ```
 python test_infer.py
