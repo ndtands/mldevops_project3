@@ -167,9 +167,16 @@ docker run -p 5000:5000 project3
 ![ci](images/ci.png)
 
 #### CD on Render
-Buid and Setup Render
+
+##### Buid and Setup Render
+![cd build](images/setup_render.png)
+
+##### Setup Render
 ![cd build](images/cd_buid.png)
-Run app in Render
+
+##### Run app in Render
+![live_get](images/live_get.png)
+
 ![live_post](images/live_post.png)
 Link web: [https://tannd22.onrender.com](https://tannd22.onrender.com)
 
