@@ -170,7 +170,7 @@ docker run -p 5000:5000 project3
 Buid and Setup Render
 ![cd build](images/cd_buid.png)
 Run app in Render
-![cd live](images/cd_live.png)
+![live_post](images/live_post.png)
 Link web: [https://tannd22.onrender.com](https://tannd22.onrender.com)
 
 ### 10. Request API
@@ -178,7 +178,7 @@ Link web: [https://tannd22.onrender.com](https://tannd22.onrender.com)
 ```
 python api.py
 ```
-![live_post](images/live_post.png)
+![live_post](images/local_post.png)
 #### Test post
 ```
 python test_infer.py
