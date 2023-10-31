@@ -7,7 +7,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-url = "http://0.0.0.0:5000/predict"
+url = "https://tannd22.onrender.com/predict"
 [encoder, lb, model] = pickle.load(open("artifact/models/lr_model.pkl", "rb"))
 cat_features = [
     "workclass",
